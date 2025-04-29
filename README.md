@@ -4,12 +4,12 @@ A powerful and intuitive real-time facial emotion detection system using **OpenC
 
 ## ✨ Features:
 
-✅ Real-time emotion detection from your webcam  
-😀 Detects 4 core emotions: **Happy**, **Sad**, **Angry**, **Neutral**  
-📊 Displays confidence/probability for each emotion  
-😄 High accuracy for **smile/happy** detection  
-🎛️ Clean UI with dynamic **confidence bars**  
-⚡ Real-time **FPS (Frames Per Second)** counter for performance monitoring  
+✅ Real-time emotion detection from your webcam.
+😀 Detects 4 core emotions: **Happy**, **Sad**, **Angry**, **Neutral**.
+📊 Displays confidence/probability for each emotion.
+😄 High accuracy for **smile/happy** detection. 
+🎛️ Clean UI with dynamic **confidence bars**.  
+⚡ Real-time **FPS (Frames Per Second)** counter for performance monitoring. 
 
 ## 🛠 Requirements:
 
