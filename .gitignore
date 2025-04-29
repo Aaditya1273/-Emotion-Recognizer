@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Large model files
+*.caffemodel
+*.onnx
+
+# Other files to ignore
+.DS_Store 

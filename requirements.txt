@@ -1,0 +1,9 @@
+opencv-python==4.8.1
+numpy==1.26.1
+requests>=2.31.0
+tqdm>=4.66.1
+mediapipe==0.10.9
+deepface==0.0.79
+tf-keras>=2.15.0
+# Removing onnx dependency since we're not using it anymore
+# tensorflow is used by mediapipe, but we don't directly need it 
