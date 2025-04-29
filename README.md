@@ -1,10 +1,10 @@
-# 😊 Real-Time Emotion Detection
+# 😊 Real-Time Emotion Detection❤️
 
 A powerful and intuitive real-time facial emotion detection system using **OpenCV** and **MediaPipe**. Detects emotions such as **Happy**, **Sad**, **Angry**, **Fear**, and **Neutral** from live webcam video feeds 🎥 — with smooth performance and high accuracy.
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 ✅ Real-time emotion detection from your webcam  
 😀 Detects 4 core emotions: **Happy**, **Sad**, **Angry**, **Neutral**  
@@ -15,7 +15,7 @@ A powerful and intuitive real-time facial emotion detection system using **OpenC
 
 ---
 
-## 🛠 Requirements
+## 🛠 Requirements:
 
 - Python 3.7 or above 🐍  
 - Functional Webcam 🎥  
@@ -23,34 +23,30 @@ A powerful and intuitive real-time facial emotion detection system using **OpenC
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation:
 
 1. **Clone the repository** 📥
    ```bash
    git clone https://github.com/your-username/real-time-emotion-detector.git
    cd real-time-emotion-detector
    ```
-
 2. **Install required packages** 📦
    ```bash
    pip install -r requirements.txt
    ```
-
 ---
 
-## ▶️ How to Use
+## ▶️ How to Use:
 
 1. **Run the application** 💻
    ```bash
    python main.py
    ```
-
 2. Your webcam will activate and begin **real-time emotion detection** 🧠  
 3. Press **'q'** to quit the application ❌
-
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works:
 
 This system uses a hybrid approach combining facial geometry with fallback image analysis:
 
@@ -69,28 +65,9 @@ When landmark detection is weak, the system uses:
 - 🖍 **Edge detection** in facial regions  
 - 💡 **Brightness/intensity patterns**  
 - 🔲 **Region-based texture analysis**
-
 ---
 
-## ⚠️ Limitations
+## ⚠️ Limitations:
 
 - Works best in **good lighting** conditions 💡  
 - Accuracy may vary depending on **webcam quality** 📸  
-
----
-
-## 🎯 Customization
-
-Want to fine-tune the detection accuracy?  
-You can edit **thresholds and sensitivity** in:
-
-```python
-emotion_detection.py
-```
-
-Adjust parameters like:
-- Emotion confidence cutoffs  
-- Region importance weight  
-- Detection smoothing factor
-
----
