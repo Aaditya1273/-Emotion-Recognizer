@@ -2,8 +2,6 @@
 
 A powerful and intuitive real-time facial emotion detection system using **OpenCV** and **MediaPipe**. Detects emotions such as **Happy**, **Sad**, **Angry**, **Fear**, and **Neutral** from live webcam video feeds 🎥 — with smooth performance and high accuracy.
 
----
-
 ## ✨ Features:
 
 ✅ Real-time emotion detection from your webcam  
@@ -13,15 +11,11 @@ A powerful and intuitive real-time facial emotion detection system using **OpenC
 🎛️ Clean UI with dynamic **confidence bars**  
 ⚡ Real-time **FPS (Frames Per Second)** counter for performance monitoring  
 
----
-
 ## 🛠 Requirements:
 
 - Python 3.7 or above 🐍  
 - Functional Webcam 🎥  
 - Libraries listed in `requirements.txt`
-
----
 
 ## 🚀 Installation:
 
@@ -34,7 +28,6 @@ A powerful and intuitive real-time facial emotion detection system using **OpenC
    ```bash
    pip install -r requirements.txt
    ```
----
 
 ## ▶️ How to Use:
 
@@ -44,7 +37,6 @@ A powerful and intuitive real-time facial emotion detection system using **OpenC
    ```
 2. Your webcam will activate and begin **real-time emotion detection** 🧠  
 3. Press **'q'** to quit the application ❌
----
 
 ## 🧠 How It Works:
 
