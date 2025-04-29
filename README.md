@@ -57,8 +57,7 @@ When landmark detection is weak, the system uses:
 - 🖍 **Edge detection** in facial regions  
 - 💡 **Brightness/intensity patterns**  
 - 🔲 **Region-based texture analysis**
----
-
+  
 ## ⚠️ Limitations:
 
 - Works best in **good lighting** conditions 💡  
